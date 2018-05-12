@@ -17,12 +17,3 @@
 * Make some changes 
 * Reload plugin on Chrome `chrome://extensions`
 * Sumbit a pull request
-
-See the live video [here](https://www.youtube.com/watch?v=LkATcyD3vxU&feature=youtu.be).
-
-# By SocialNerds
-* [SocialNerds.gr](https://www.socialnerds.gr/)
-* [YouTube](https://www.youtube.com/SocialNerdsGR)
-* [Facebook](https://www.facebook.com/SocialNerdsGR)
-* [Twitter](https://twitter.com/socialnerdsgr)
-
